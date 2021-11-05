@@ -1,0 +1,12 @@
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\bin\Debug\net5.0\ikinciprojeckt.deps.json
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\bin\Debug\net5.0\ikinciprojeckt.dll
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\bin\Debug\net5.0\ref\ikinciprojeckt.dll
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\bin\Debug\net5.0\ikinciprojeckt.pdb
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.csproj.AssemblyReference.cache
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.AssemblyInfoInputs.cache
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.AssemblyInfo.cs
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.csproj.CoreCompileInputs.cache
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.dll
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ref\ikinciprojeckt.dll
+C:\Users\Elxan\Desktop\library\librayyy\ConsoleApp1\ikinciprojeckt\obj\Debug\net5.0\ikinciprojeckt.pdb
